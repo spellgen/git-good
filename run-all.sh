@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 for f in *.py; do
 	echo "=== $f ==="
